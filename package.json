@@ -1,0 +1,31 @@
+{
+  "name": "dot-slayyy-domain",
+  "version": "1.0.0",
+  "description": "Create your own wallet domain like name.slayyy (cause eth is too boring)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charles-vj/dot-slayyy-domain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charles-vj/dot-slayyy-domain/issues"
+  },
+  "homepage": "https://github.com/charles-vj/dot-slayyy-domain#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
