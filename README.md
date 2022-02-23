@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# .slayyy domain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Create your own wallet domain like name.slayyy (cause eth is too boring). Basically an ENS service on Polygon. Make sure you have a MetaMask wallet before you try to mint a domain.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Minted Collection - https://testnets.opensea.io/collection/name-service-slayyy-v3
